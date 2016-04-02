@@ -8,8 +8,8 @@
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <![endif]-->
-    <title>BOOTSTRAP CHAT EXAMPLE</title>
-    <!-- BOOTSTRAP CORE STYLE CSS -->
+    <title>Just CHAT</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
 
 </head>
